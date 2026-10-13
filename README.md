@@ -241,4 +241,4 @@ This repository serves as the official landing page for Statgraphics. The softwa
 **Get the most recent version of Statgraphics today!**
 
 ---
-**Last updated:** 2026-10-12 21:59:41 UTC
+**Last updated:** 2026-10-13 02:58:32 UTC
